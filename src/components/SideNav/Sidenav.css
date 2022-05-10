@@ -1,0 +1,14 @@
+.side-nav{
+    background-color: rgb(17, 2, 38);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    padding-bottom: 10%;
+    
+   
+}
+body{
+   overflow: hidden;
+}
+
